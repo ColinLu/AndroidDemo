@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+    <string name="image_content_description">图片内容描述</string>
+    <string name="text">文本内容</string>
+</resources>
