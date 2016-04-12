@@ -1,0 +1,32 @@
+<resources>
+
+    <style name="AppStyle" parent="AppTheme.NoActionBar">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/app_main_background</item>
+    </style>
+
+    <style name="LineHorizontalStyle">
+        <item name="android:layout_height">@dimen/line_view_small</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/gray_iii</item>
+    </style>
+
+    <style name="LineVerticalStytle">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">@dimen/line_view_small</item>
+        <item name="android:background">@color/gray_iii</item>
+    </style>
+
+    <style name="title_bottom_radiobutton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:textColor">@color/text_select_default</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

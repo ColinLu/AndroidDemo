@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/radio_group_items"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_top_bar_height_small"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <RadioButton
+        android:id="@+id/radio_bottm_title_view"
+        style="@style/title_bottom_radiobutton"
+        android:text="@string/radio_bottm_title_view" />
+
+    <View
+        style="@style/LineVerticalStytle"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp" />
+
+    <RadioButton
+        android:id="@+id/radio_bottm_title_method"
+        style="@style/title_bottom_radiobutton"
+        android:text="@string/radio_bottm_title_way" />
+
+    <View
+        style="@style/LineVerticalStytle"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp" />
+
+    <RadioButton
+        android:id="@+id/radio_bottm_title_other"
+        style="@style/title_bottom_radiobutton"
+        android:text="@string/radio_bottm_title_other" />
+
+
+    <View
+        style="@style/LineVerticalStytle"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp" />
+
+    <RadioButton
+        android:id="@+id/radio_bottm_title_mine"
+        style="@style/title_bottom_radiobutton"
+        android:text="@string/radio_bottm_title_mine" />
+
+</RadioGroup>

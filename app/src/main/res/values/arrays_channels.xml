@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ListFragment_View_Base">
+        <item>基本控件,CommonView,com.colin.app.view.activity.CommonViewActivity</item>
+        <item>基本控件,Java写布局,com.colin.app.view.activity.JavaWriteViewActivity</item>
+        <item>基本控件,PopupWindow,com.colin.app.view.activity.PopupWindowActivity</item>
+        <item>基本控件,WebView,com.colin.app.view.activity.WebViewActivity</item>
+        <item>基本控件,TextView,com.colin.app.view.activity.TextViewActivity</item>
+        <item>基本控件,ImageSwitcher,com.colin.app.view.activity.ImageSwitcherActivity</item>
+        <item>基本控件,Spinner,com.colin.app.view.activity.SpinnerActivity</item>
+    </string-array>
+
+    <string-array name="ListFragment_View_High">
+        <item>高级控件,ListView,com.colin.app.view.activity.ListViewActivity</item>
+        <item>高级控件,RecyckerView,com.colin.app.view.activity.RecyclerActivity</item>
+        <item>高级控件,RecyckerViewPager,com.colin.app.view.activity.RecyclerViewPagerActivity</item>
+        <item>高级控件,RecyclerView:List点击排序,com.colin.app.recyclerview.RecyclerListMoveOrderActivity</item>
+        <item>高级控件,RecyclerView:Grid点击排序,com.colin.app.recyclerview.RecyclerListMoveOrderActivity</item>
+    </string-array>
+
+    <string-array name="ListFragment_View_New">
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+        <item>最新控件,XRecyckerView,RecyclerActivity</item>
+    </string-array>
+    <string-array name="ListFragment_View_Custom">
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+        <item>自定义控件,XRecyckerView,RecyclerActivity</item>
+    </string-array>
+
+</resources>
