@@ -152,7 +152,6 @@ public abstract class BaseFragment extends Fragment implements IBaseFragment {
         activity = null;
         onFragmentListener = null;
         super.onDestroyView();
-
     }
 
     @Override
